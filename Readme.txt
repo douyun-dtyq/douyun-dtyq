@@ -9,8 +9,8 @@ About me:
 - AI/LLM: 不会
 - 在学习：EE FreeCAD/OpenSCAD
 
-```text
-7BDA87C63EB164C0C65952A504D96871C872A35E`
+```
+7BDA87C63EB164C0C65952A504D96871C872A35E
 
 Yun Dou (dixyes) (gpg key for git commit) <dixyes@gmail.com>
 ```
