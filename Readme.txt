@@ -10,11 +10,7 @@ About me:
 - 在学习：EE FreeCAD/OpenSCAD
 
 ```
-7BDA87C63EB164C0C65952A504D96871C872A35E
+D110F1EBF55907F4F85C463CD97995BF884934EB
 
-Yun Dou (dixyes) (gpg key for git commit) <dixyes@gmail.com>
+Yun Dou (for git commit signing) <douyun@dtyq.com>
 ```
-
-About dixyes:
-
-dixyes is the one who writes OSS, douyun-dtyq is an employee of @dtyq
